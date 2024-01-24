@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+  }
+
+  body{
+    background: #3767D6;
+  }
+  
+  .mainContainer  {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding: 50px;
+  }
+  
+  .input-text {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+    height: 550px;
+    width: 550px;
+    color: black;
+    font-size: 16px;
+    background-color: #3767D6;
+  }
+  
+  .input h3{
+    margin-left: 20px;
+  }
+  
+  .output {
+    overflow: auto;
+    height: 550px;
+    width: 550px;
+    background-color:black;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .proname{
+    position: absolute;
+    margin-top: -610px;
+    margin-left: 220px;
+  }
+  
+  
+  
+  
